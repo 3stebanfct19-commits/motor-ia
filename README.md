@@ -1,2 +1,2 @@
-# idsec-motor-ia
+# motor-ia
 "Entorno base para el motor de IA"
